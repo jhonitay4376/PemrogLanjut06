@@ -13,22 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace FP_Kelompok6
+namespace FP_Kelompok6.View
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for PembayaranPage.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class PembayaranPage : Page
     {
-        public MainWindow()
+        public PembayaranPage()
         {
             InitializeComponent();
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
     }
 }
