@@ -4,17 +4,26 @@
 winexe
 C#
 .cs
-D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\
+E:\xxx\PemrogLanjut06\FP_Kelompok6\obj\Debug\
 FP_Kelompok6
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\App.xaml
 71383720413
 
 1123083985
 13-1310406943
 MainWindow.xaml;View\DaftarFilmPage.xaml;View\daftarFilmUC.xaml;View\login.xaml;View\PembayaranPage.xaml;View\PemilihanPage.xaml;View\SnackDanMinumanPage.xaml;
+=======
+E:\xxx\PemrogLanjut06\FP_Kelompok6\App.xaml
+61557628394
 
-False
+111844667010
+13-1310406943
+MainWindow.xaml;View\DaftarFilmPage.xaml;View\Login.xaml;View\PembayaranPage.xaml;View\PemilihanPage.xaml;View\SnackDanMinumanPage.xaml;
+>>>>>>> afaee19f6161433b855680c4d1338420d7044237
+
+True
 

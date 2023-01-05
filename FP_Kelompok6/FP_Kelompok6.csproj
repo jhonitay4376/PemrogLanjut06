@@ -58,11 +58,16 @@
     <Compile Include="View\DaftarFilmPage.xaml.cs">
       <DependentUpon>DaftarFilmPage.xaml</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="View\daftarFilmUC.xaml.cs">
       <DependentUpon>daftarFilmUC.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\login.xaml.cs">
       <DependentUpon>login.xaml</DependentUpon>
+=======
+    <Compile Include="View\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+>>>>>>> afaee19f6161433b855680c4d1338420d7044237
     </Compile>
     <Compile Include="View\PembayaranPage.xaml.cs">
       <DependentUpon>PembayaranPage.xaml</DependentUpon>
@@ -89,11 +94,15 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+<<<<<<< HEAD
     <Page Include="View\daftarFilmUC.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="View\login.xaml">
+=======
+    <Page Include="View\Login.xaml">
+>>>>>>> afaee19f6161433b855680c4d1338420d7044237
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

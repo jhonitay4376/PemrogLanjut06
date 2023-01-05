@@ -1,5 +1,6 @@
 ﻿
 
+<<<<<<< HEAD
 FD:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\MainWindow.xaml;;
 FD:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\View\DaftarFilmPage.xaml;;
 FD:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\View\PembayaranPage.xaml;;
@@ -7,4 +8,12 @@ FD:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelom
 FD:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\View\SnackDanMinumanPage.xaml;;
 FD:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\View\daftarFilmUC.xaml;;
 FD:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\View\login.xaml;;
+=======
+FE:\xxx\PemrogLanjut06\FP_Kelompok6\MainWindow.xaml;;
+FE:\xxx\PemrogLanjut06\FP_Kelompok6\View\DaftarFilmPage.xaml;;
+FE:\xxx\PemrogLanjut06\FP_Kelompok6\View\Login.xaml;;
+FE:\xxx\PemrogLanjut06\FP_Kelompok6\View\PembayaranPage.xaml;;
+FE:\xxx\PemrogLanjut06\FP_Kelompok6\View\PemilihanPage.xaml;;
+FE:\xxx\PemrogLanjut06\FP_Kelompok6\View\SnackDanMinumanPage.xaml;;
+>>>>>>> afaee19f6161433b855680c4d1338420d7044237
 
