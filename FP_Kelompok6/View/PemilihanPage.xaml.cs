@@ -23,6 +23,14 @@ namespace FP_Kelompok6.View
         public PemilihanPage()
         {
             InitializeComponent();
+            combo1.Items.Add("GOPAY");
+            combo1.Items.Add("BNI");
+            combo1.Items.Add("MANDIRI");
+        }
+
+        private void comboBox_Copy_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
         }
     }
 }
