@@ -10,7 +10,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="16*"/>
             <RowDefinition Height="200*"/>
-            <RowDefinition Height="416*"/>
+            <RowDefinition Height="416*" x:Name="row2"/>
         </Grid.RowDefinitions>
 
         <Grid Width="100" Grid.Row="0" 
@@ -39,7 +39,7 @@
                 Height=" 24" Margin="923,10,175,152" />
         </Grid>
 
-        <Grid Grid.Row="2" >
+        <Grid Grid.Row="2" x:Name="Row2">
             <Button Width="87" Height="128" Margin="142,50,893,230"/>
             <Button Width="87" Height="128" Margin="268,50,767,230"/>
             <Button Width="87" Height="128" Margin="406,50,629,230" Click="Button_Click"/>

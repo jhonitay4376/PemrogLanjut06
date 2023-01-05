@@ -8,7 +8,7 @@
       d:DesignHeight="450" d:DesignWidth="1122"
       Title="DaftarFilmPage">
 
-    <Grid>
+    <Grid >
         <Button Width="87" Height="128" Margin="102,75,933,247"/>
         <Button Width="87" Height="128" Margin="228,75,807,247"/>
         <Button Width="87" Height="128" Margin="366,75,669,247" />

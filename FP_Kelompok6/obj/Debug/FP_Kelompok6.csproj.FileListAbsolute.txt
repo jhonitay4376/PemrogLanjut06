@@ -14,7 +14,6 @@ D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelomp
 D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\FP_Kelompok6.csproj.CoreCompileInputs.cache
 D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\FP_Kelompok6.exe
 D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\FP_Kelompok6.pdb
-D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\UserControl\FilmUC.g.cs
 D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\View\DaftarFilmPage.g.cs
 D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\View\PembayaranPage.g.cs
 D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\View\PemilihanPage.g.cs
@@ -23,3 +22,7 @@ D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelomp
 D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\View\PembayaranPage.baml
 D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\View\PemilihanPage.baml
 D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\View\SnackDanMinumanPage.baml
+D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\View\daftarFilmUC.g.cs
+D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\View\login.g.cs
+D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\View\daftarFilmUC.baml
+D:\1.PROJECT\..SEMESTER 3\PEMOGRAMAN LANJUT\final project\FP_Kelompok6\FP_Kelompok6\obj\Debug\View\login.baml

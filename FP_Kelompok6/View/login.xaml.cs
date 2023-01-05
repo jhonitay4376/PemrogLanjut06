@@ -1,5 +1,4 @@
-﻿using FP_Kelompok6.View;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,26 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace FP_Kelompok6
+namespace FP_Kelompok6.View
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for login.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class login : Window
     {
-        public MainWindow()
+        public login()
         {
             InitializeComponent();
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            daftarFilmUC daftarFilm = new daftarFilmUC();
-            Row2.Children.Add(daftarFilm);  
-        }
-
     }
 }
